@@ -32,7 +32,7 @@ span{
   overflow: hidden;
 }
 .btn1,.btn2{
-  color: #3498db;
+  color: black;
 }
 .btn1:hover,.btn2:hover{
   color: #fff;
